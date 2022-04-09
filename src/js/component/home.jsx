@@ -1,12 +1,12 @@
 import React from "react";
-import NavBar from "./NavBar"
-import Card from "./card"
+import NavBar from "./NavBar";
+import Card from "./card";
 import Jumbotron from "./jumbotron";
 
 //create your first component
 const Home = () => {
 	return (
-		<div> 
+		<div>
 			<Jumbotron />
 			<NavBar />
 			<Card />
