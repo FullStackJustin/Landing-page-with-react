@@ -6,7 +6,7 @@ import Jumbotron from "./jumbotron";
 //create your first component
 const Home = () => {
 	return (
-		<div>
+		<div> 
 			<Jumbotron />
 			<NavBar />
 			<Card />
